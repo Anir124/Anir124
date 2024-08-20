@@ -1,4 +1,4 @@
-## Hi there 👋
+<!--## Hi there 👋-->
 
 <!--
 **Anir124/Anir124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Anirbinna Dasgupta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+
+<div align="center"><img src="https://i.imgur.com/Iytlzor.gif" alt="Cute Billi"></div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anir124&label=Profile%20views&color=0e75b6&style=flat" alt="anir124" /> </p>
 
